@@ -19,10 +19,6 @@
     {
       "day": 5,
       "id": 5
-    },
-    {
-      "day": 6,
-      "id": 6
     }
   ],
   "words": [
@@ -31,7 +27,7 @@
       "day": 2,
       "eng": "car",
       "kor": "자동차",
-      "isDone": true
+      "isDone": false
     },
     {
       "id": 5,
@@ -76,39 +72,46 @@
       "id": 12
     },
     {
-      "day": "1",
-      "eng": "computer ",
-      "kor": "컴퓨터",
+      "day": "",
+      "eng": "",
+      "kor": "",
       "isDone": false,
-      "id": 26
+      "id": 13
     },
     {
       "day": "1",
-      "eng": "window",
-      "kor": "창문",
+      "eng": "Hello",
+      "kor": "하이",
       "isDone": false,
-      "id": 30
+      "id": 16
     },
     {
       "day": "2",
-      "eng": "window",
-      "kor": "창문",
+      "eng": "news",
+      "kor": "뉴스",
       "isDone": false,
-      "id": 31
+      "id": 17
+    },
+    {
+      "day": "2",
+      "eng": "yoyo",
+      "kor": "요요",
+      "isDone": false,
+      "id": 18
     },
     {
       "day": "4",
-      "eng": "hi",
-      "kor": "안녕",
+      "eng": "yamy",
+      "kor": "야미",
       "isDone": false,
-      "id": 35
+      "id": 19
     },
     {
       "day": "4",
-      "eng": "hi",
-      "kor": "안녕",
+      "eng": "gggl",
+      "kor": "goodgame goodluck",
       "isDone": false,
-      "id": 36
+      "id": 20
     }
   ]
 }
